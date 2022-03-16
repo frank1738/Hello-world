@@ -2,7 +2,7 @@
 This is my first Microverse Hello world project whose main focus is to test my understanding in github,githubflows,version controll and to demonstrate the ability to submit a project for code review.
 
 Built With:
-* HTML
+*HTML
 *CSS
 
 To get a local copy up and running follow these simple example steps.
