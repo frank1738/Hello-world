@@ -21,8 +21,7 @@ Authors
 👤 Author1
 * GitHub:https://github.com/frank1738
 * Twitter: https://twitter.com/frankhiggins08
-* LinkedIn: www.linkedin.com/in/ 
-frankline-osoro-b526ba18b
+* LinkedIn: www.linkedin.com/in/frankline-osoro-b526ba18b
 
 
 
