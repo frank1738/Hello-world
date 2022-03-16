@@ -5,6 +5,16 @@ Built With:
 * HTML
 *CSS
 
+To get a local copy up and running follow these simple example steps.
+
+*Obove the list list of files click Code
+*To clone the repository using HTTPS, under "Clone with HTTPS", click the copy button . To clone the repository using an SSH key, including a certificate issued by your organization's SSH certificate authority, click Use SSH, then click the copy button . To clone a repository using GitHub CLI, click Use GitHub CLI, then click the copy button .
+*Open Git Bash.
+*Change the current working directory to the location where you want the cloned directory.
+*Type git clone, and then paste the URL you copied earlier.
+*Press Enter to create your local clone.
+
+
 
 
 Authors
