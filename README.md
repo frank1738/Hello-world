@@ -1,11 +1,10 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
+Microverse Hello world project
 
-# Project Name
-
-> Description the project.
+This is my Hello world microverse project whose main focus is to test my understanding in github,github workflows,github commands and linters checking
 
 
-## Built With
+HTML,CSS
 
 - Major languages
 - Frameworks
