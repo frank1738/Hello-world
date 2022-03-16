@@ -1,72 +1,51 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
-Microverse Hello world project
+Project Name
+Description the project.
 
-This is my Hello world microverse project whose main focus is to test my understanding in github,github workflows,github commands and linters checking
+Built With
+* Major languages
+* Frameworks
+* Technologies used
 
+Live Demo (if available)
+Live Demo Link
 
-HTML,CSS
-
-- Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
-
-
-## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
+Getting Started
+This is an example of how you may give instructions on setting up your project locally. Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.
 To get a local copy up and running follow these simple example steps.
 
-### Prerequisites
+Prerequisites
 
-### Setup
+Setup
 
-### Install
+Install
 
-### Usage
+Usage
 
-### Run tests
+Run tests
 
-### Deployment
+Deployment
 
+Authors
+👤 Author1
+* GitHub: @githubhandle
+* Twitter: @twitterhandle
+* LinkedIn: LinkedIn
+👤 Author2
+* GitHub: @githubhandle
+* Twitter: @twitterhandle
+* LinkedIn: LinkedIn
 
-
-## Authors
-
-👤 **Author1**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-## 🤝 Contributing
-
+🤝 Contributing
 Contributions, issues, and feature requests are welcome!
+Feel free to check the issues page.
 
-Feel free to check the [issues page](../../issues/).
+Show your support
+Give a ⭐ if you like this project!
 
-## Show your support
+Acknowledgments
+* Hat tip to anyone whose code was used
+* Inspiration
+* etc
 
-Give a ⭐️ if you like this project!
-
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
-
-## 📝 License
-
-This project is [MIT](./MIT.md) licensed.
+📝 License
+This project is MIT licensed.
